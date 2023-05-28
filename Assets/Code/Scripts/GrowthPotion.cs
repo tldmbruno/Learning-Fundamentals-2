@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class GrowthPotion : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        other.transform.localScale *= 2;
+        collision.transform.localScale *= 2;
         Destroy(gameObject);
     }
 }

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 160789473056946764}
   - component: {fileID: 160789473056946765}
   - component: {fileID: 160789473056946766}
+  - component: {fileID: 4984663287487963137}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -124,6 +125,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &4984663287487963137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789473056946752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789473193193113
 GameObject:
   m_ObjectHideFlags: 0
@@ -136,6 +149,7 @@ GameObject:
   - component: {fileID: 160789473193193094}
   - component: {fileID: 160789473193193095}
   - component: {fileID: 160789473193193093}
+  - component: {fileID: 5124457675173160545}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -248,6 +262,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &5124457675173160545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789473193193113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789473238722944
 GameObject:
   m_ObjectHideFlags: 0
@@ -260,6 +286,7 @@ GameObject:
   - component: {fileID: 160789473238722956}
   - component: {fileID: 160789473238722957}
   - component: {fileID: 160789473238722958}
+  - component: {fileID: 6240980633746697899}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -372,6 +399,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &6240980633746697899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789473238722944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789473310882035
 GameObject:
   m_ObjectHideFlags: 0
@@ -384,6 +423,7 @@ GameObject:
   - component: {fileID: 160789473310882032}
   - component: {fileID: 160789473310882033}
   - component: {fileID: 160789473310882047}
+  - component: {fileID: 212695854105441484}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -496,6 +536,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &212695854105441484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789473310882035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789473807287220
 GameObject:
   m_ObjectHideFlags: 0
@@ -508,6 +560,7 @@ GameObject:
   - component: {fileID: 160789473807287217}
   - component: {fileID: 160789473807287218}
   - component: {fileID: 160789473807287216}
+  - component: {fileID: 3494172680966359140}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -620,6 +673,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &3494172680966359140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789473807287220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789474070982483
 GameObject:
   m_ObjectHideFlags: 0
@@ -672,6 +737,7 @@ GameObject:
   - component: {fileID: 160789474548256298}
   - component: {fileID: 160789474548256299}
   - component: {fileID: 160789474548256300}
+  - component: {fileID: 3535904246312041728}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -784,6 +850,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &3535904246312041728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789474548256302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789474688928715
 GameObject:
   m_ObjectHideFlags: 0
@@ -796,6 +874,7 @@ GameObject:
   - component: {fileID: 160789474688928759}
   - component: {fileID: 160789474688928712}
   - component: {fileID: 160789474688928713}
+  - component: {fileID: 4415709165138060083}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -908,6 +987,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &4415709165138060083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789474688928715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789475025525851
 GameObject:
   m_ObjectHideFlags: 0
@@ -920,6 +1011,7 @@ GameObject:
   - component: {fileID: 160789475025525831}
   - component: {fileID: 160789475025525848}
   - component: {fileID: 160789475025525849}
+  - component: {fileID: 7431463499948761763}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -1032,6 +1124,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &7431463499948761763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789475025525851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &160789475086613767
 GameObject:
   m_ObjectHideFlags: 0
@@ -1044,6 +1148,7 @@ GameObject:
   - component: {fileID: 160789475086613763}
   - component: {fileID: 160789475086613764}
   - component: {fileID: 160789475086613765}
+  - component: {fileID: 1368338135790849311}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -1156,3 +1261,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &1368338135790849311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160789475086613767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d461fac6bafce4dbaa6157707f76d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
